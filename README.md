@@ -13,21 +13,12 @@ Na Windows stiskněte Win + R, napište cmd a stiskněte Enter, nebo vyhledejte 
 
 Nainstalujte potřebné knihovny příkazem:
 
-bash
-Zkopírovat
-Upravit
 pip install opencv-python mediapipe pygame
 Přejděte do složky s hrou (změňte cestu podle své instalace):
 
-bash
-Zkopírovat
-Upravit
 cd "C:\Users\Uzivatel\Desktop\full game\Imagin Touch beta1.1"
 Spusťte hru příkazem:
 
-bash
-Zkopírovat
-Upravit
 python "Imagin Touch  beta 1.1.py"
 🎮 Co hra umí (verze beta1.1)
 📷 Využívá snímání ruky pomocí MediaPipe a vlastní webkamery.
@@ -38,9 +29,9 @@ Herní mód (s výběrem délky hry 30, 60 a 300 sekund, vše plně funkční)
 
 Herní mód 2 (připravený pro budoucí rozšíření)
 
-Zobrazovací mód
+Zobrazovací mód (pracujeme na tom)
 
-Ukončit hru
+Ukončit hru (ukončí hru)
 
 🖥️ Běží ve fullscreen režimu a zobrazuje malý náhled z kamery vlevo nahoře.
 
